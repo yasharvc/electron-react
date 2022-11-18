@@ -1,0 +1,28 @@
+{
+  "name": "electron-react",
+  "version": "1.0.0",
+  "description": "Electron with React.js Front end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yasharvc/electron-reactjs.git"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "electron",
+    "js",
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Yashar Aliabbasi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yasharvc/electron-reactjs/issues"
+  },
+  "homepage": "https://github.com/yasharvc/electron-reactjs#readme"
+}
