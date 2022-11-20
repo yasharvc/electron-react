@@ -27,5 +27,11 @@
 	"homepage": "https://github.com/yasharvc/electron-react#readme",
 	"devDependencies": {
 		"electron": "^21.3.0"
+	},
+	"dependencies": {
+		"electron-root-path": "^1.1.0",
+		"es6-module-loader": "^0.17.11",
+		"systemjs": "^6.13.0",
+		"traceur": "^0.0.111"
 	}
 }
